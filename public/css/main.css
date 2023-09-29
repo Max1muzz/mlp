@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(237 255 242);
+}
+.height-25 {
+    height: 25vh;
+}
+.btn {border-radius: 1.5rem;}
